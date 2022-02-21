@@ -2,7 +2,7 @@
 
 🎓 Currently trying to get my Computer Science Degree \
 🖥️ Learning C/C++, Scala and Java \
-:lock: Working on cyber-security carrer project \
+:lock: Working on cyber-security career project \
 📫 You can reach me at [monchecour@cy-tech.fr](monchecour@cy-tech.fr)
 
 <!--
