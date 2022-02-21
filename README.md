@@ -1,4 +1,7 @@
-### Hi there 👋
+### Hi, I am Pierre 👋
+
+🎓 Currently trying to get my Computer Science Degree
+📫 You can reach me at [monchecour@cy-tech.fr]{monchecour@cy-tech.fr}
 
 <!--
 **Premct/Premct** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
